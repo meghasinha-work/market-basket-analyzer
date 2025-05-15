@@ -5,3 +5,5 @@ networkx
 matplotlib
 mlxtend
 streamlit-authenticator
+
+# Rebuild trigger
