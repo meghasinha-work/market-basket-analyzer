@@ -1,3 +1,7 @@
 streamlit
 pandas
+plotly
+networkx
+matplotlib
 mlxtend
+streamlit-authenticator
